@@ -1,0 +1,28 @@
+{
+  "name": "electrontests",
+  "version": "1.0.0",
+  "description": "Mein Electron Test dingens",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron . test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ermal0802/ElectronTests.git"
+  },
+  "keywords": [
+    "electron",
+    "test",
+    "ermal"
+  ],
+  "author": "Ermal Durmishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ermal0802/ElectronTests/issues"
+  },
+  "homepage": "https://github.com/Ermal0802/ElectronTests#readme",
+  "devDependencies": {
+    "electron": "^6.0.3"
+  }
+}
