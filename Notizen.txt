@@ -1,0 +1,11 @@
+Installieren:
+
+https://nodejs.org/en/
+
+https://git-scm.com/download/win
+
+Documentation:
+
+https://www.w3schools.com/
+
+https://electronjs.org/docs/tutorial/first-app
