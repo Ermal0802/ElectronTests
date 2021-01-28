@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Ermal0802/ElectronTests#readme",
   "devDependencies": {
-    "electron": "^6.0.4"
+    "electron": "^9.4.0"
   }
 }
